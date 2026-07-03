@@ -29,7 +29,7 @@ SITE ADVOCACIAMP/
 | Seção | Descrição |
 |---|---|
 | **Hero** | Apresentação do escritório com chamada para agendamento |
-| **Números** | Estatísticas: 7+ anos, 600+ casos, 500+ processos |
+| **Números** | Estatísticas: 5+ anos, 600+ casos, 500+ processos |
 | **Sobre** | Perfil da Dra. Maria Paula, valores e filosofia de trabalho |
 | **Áreas de Atuação** | Direito Previdenciário, Trabalhista, do Consumidor e de Sucessão |
 | **Contato** | Formulário de contato + endereço, telefone e e-mail |
