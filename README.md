@@ -67,7 +67,7 @@ SITE ADVOCACIAMP/
 | **Telefone / WhatsApp** | (65) 99221-1916 |
 | **E-mail** | eubankmp.adv@gmail.com |
 | **Endereço** | Rua Salvador Marques, 316 — Centro, Poconé — MT, 78175-000 |
-| **Atendimento** | Segunda a Sexta, 8h às 18h |
+| **Atendimento** | Segunda a Sexta, 8h às 17h |
 
 ---
 
